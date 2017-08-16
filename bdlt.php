@@ -4,7 +4,7 @@
   * @author maas(maasdruck@gmail.com)
   * @date 2017/02/02
   * @version v1.35
-  * @brief 百度搜索结果参数分析工具
+  * @brief 百度搜索结果参数分析工具11
   */
 header ('Cache-Control: max-age=86400');
 header("Content-type: text/html; charset=utf-8");
